@@ -37,7 +37,7 @@ I'm a third-year Computer Engineering student from Mumbai with a passion for bui
 ### 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hridayyy01&show_icons=true&theme=transparent&title_color=5E9696&icon_color=5E9696&text_color=808080&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hridayyy01&show_icons=true&hide_rank=true&theme=transparent&title_color=5E9696&icon_color=5E9696&text_color=808080&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridayyy01&layout=compact&theme=transparent&title_color=5E9696&text_color=808080&hide_border=true" alt="Top languages" />
 </p>
 
